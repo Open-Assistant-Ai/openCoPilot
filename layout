@@ -1,3 +1,7 @@
+This will be ran on the server
+
+Base Model Options: Pick an easy one to start
+
 https://huggingface.co/Johannes/distilbert-base-uncased-finetuned-code-snippet-quality-scoring
 
 https://huggingface.co/Salesforce/codet5-base-multi-sum
